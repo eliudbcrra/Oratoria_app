@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Agora Oratoria",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "agora-oratoria",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "agora-oratoria"
+}
