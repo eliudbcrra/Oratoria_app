@@ -1,13 +1,15 @@
 {
-  "name": "Ágora Oratoria",
-  "short_name": "Oratoria",
+  "name": "Ágora · Estudio de Oratoria",
+  "short_name": "Ágora",
+  "description": "Clase en vivo, evaluación por rúbrica de 24 criterios, análisis de voz y biblioteca de material para el profesor de oratoria.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "background_color": "#0F1D21",
+  "theme_color": "#0F1D21",
   "orientation": "portrait",
   "lang": "es",
+  "categories": ["education", "productivity"],
   "icons": [
     {
       "src": "/icons/icon-192.png",
@@ -20,6 +22,12 @@
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
     },
     {
       "src": "/icon.svg",

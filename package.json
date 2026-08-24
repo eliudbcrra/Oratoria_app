@@ -1,13 +1,16 @@
 {
   "name": "oratoria-app",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
-    "build": "vite build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "lucide-react": "^0.300.0",
+    "pdfjs-dist": "^4.10.38",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "recharts": "^2.10.0"
@@ -17,4 +20,3 @@
     "vite": "^5.0.8"
   }
 }
-
